@@ -44,15 +44,22 @@ The first requirement is to create 3 regression analysis using correlatio  to sh
 
 5. Created a scatter plot to show how the average number of rooms relate to the sales price for each state with blue circles being bedrooms and orange triangles being bathrooms
 
-### Part 3: Which state has the most affordable 3 bedroom 2 bath home?
+### Part 3: Which stateterritory has the most affordable 3 bedroom 2 bath home? Which stateterritory has the most affordable 3 bedroom 3 bath home?
 
-1. Identify all of the 3 bed 2 bath homes in every state
 
-2. Separate homes by state
+1. Group all data by state
 
-3. Sort homes by price (in decreasing order)
+2. Sort each states for sale price in decreasing order
 
-4. Identify home with the least price in each state
+3. Filter all data for 3 bedrooms by creating new sheet
+
+4. Filter 3 bedroom data for 2 bathrooms by creating new sheet
+
+5. Delete data in the 3 bedroom/2 bath sheet per state that is above the last row (i.e. least price) 
+
+6. Create bar graph showcasing the cheapest home in each state by price
+
+7. Repeat steps 1-6 to identify the most affordable 3 bedrooms/3 bath homes.
 
 
 
