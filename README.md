@@ -75,4 +75,4 @@ The first requirement is to create 3 regression analysis using correlatio  to sh
 
 5. Created a scatter plot for the Pennsylvania sale price vs Pennsylvania home square footage. 
 
-6. Calculated the correlation coefficient for the Pennsylvania sale price & Pennsylvania home size. 
+6. Calculated the correlation coefficient for the Pennsylvania sale price & Pennsylvania home size.
