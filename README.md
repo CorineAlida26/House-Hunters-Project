@@ -44,7 +44,7 @@ The first requirement is to create 3 regression analysis using correlatio  to sh
 
 5. Created a scatter plot to show how the average number of rooms relate to the sales price for each state with blue circles being bedrooms and orange triangles being bathrooms
 
-### Part 3: Which stateterritory has the most affordable 3 bedroom 2 bath home? Which stateterritory has the most affordable 3 bedroom 3 bath home?
+### Part 3: Which state and territory has the most affordable 3 bedroom 2 bath home? Which stateterritory has the most affordable 3 bedroom 3 bath home?
 
 
 1. Group all data by state
